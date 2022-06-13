@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thomasb-projects
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning Unreal 5, C++, UI
+- 💞️ I’m looking to collaborate on a worthwhile project
+- 📫 How to reach me: thomasb.business@proton.me
